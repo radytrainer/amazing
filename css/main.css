@@ -170,3 +170,15 @@ footer {
     text-align: center;
     color: #fff;
 }
+
+@media(max-width: 768px) {
+   .serve,
+   .serve-one,
+   .serve-two,
+   .serve-three,
+   .serve-four,
+   .box-left,
+   .box-right {
+       grid-column: 1/3;
+   }
+}
