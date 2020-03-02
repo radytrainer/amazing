@@ -65,7 +65,7 @@ ul li a:hover {
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-gap: 20px;
-    width: 70%;
+    width: 90%;
     margin: auto;
     margin-bottom: 20px;
     
